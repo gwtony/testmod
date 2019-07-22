@@ -1,1 +1,1 @@
-module github.com/gwtony/testmod
+module github.com/gwtony/testmod/v2
